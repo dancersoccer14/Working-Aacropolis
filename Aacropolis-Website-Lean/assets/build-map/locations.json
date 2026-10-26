@@ -1,0 +1,469 @@
+[
+  {
+    "name": "Blackburn",
+    "region": "Edmonton",
+    "kind": "new",
+    "point": [
+      53.42907132874183,
+      -113.49830890626279
+    ],
+    "id": 0
+  },
+  {
+    "name": "Whitemud Hills",
+    "region": "Edmonton",
+    "kind": "new",
+    "point": [
+      53.46488524756335,
+      -113.57780188767926
+    ],
+    "id": 1
+  },
+  {
+    "name": "Twin Brooks",
+    "region": "Edmonton",
+    "kind": "new",
+    "point": [
+      53.444688598338075,
+      -113.53149747768364
+    ],
+    "id": 2
+  },
+  {
+    "name": "Eagle Ridge",
+    "region": "Edmonton",
+    "kind": "new",
+    "point": [
+      53.467635236018154,
+      -113.59744728013634
+    ],
+    "id": 3
+  },
+  {
+    "name": "Riverside",
+    "region": "Edmonton",
+    "kind": "new",
+    "point": [
+      53.45474982269482,
+      -113.59648877723627
+    ],
+    "id": 4
+  },
+  {
+    "name": "Carlton",
+    "region": "Edmonton",
+    "kind": "new",
+    "point": [
+      53.62165163543048,
+      -113.55937325047627
+    ],
+    "id": 5
+  },
+  {
+    "name": "Whitemud Oaks",
+    "region": "Edmonton",
+    "kind": "new",
+    "point": [
+      53.45769067931765,
+      -113.57742198496669
+    ],
+    "id": 6
+  },
+  {
+    "name": "College Woods",
+    "region": "Edmonton",
+    "kind": "new",
+    "point": [
+      53.451,
+      -113.602
+    ],
+    "id": 7
+  },
+  {
+    "name": "Oxford",
+    "region": "Edmonton",
+    "kind": "new",
+    "point": [
+      53.62219780043192,
+      -113.54729168143149
+    ],
+    "id": 8
+  },
+  {
+    "name": "Blackmud Creek (Southbrook)",
+    "region": "Edmonton",
+    "kind": "new",
+    "point": [
+      53.41966051994985,
+      -113.51078782887589
+    ],
+    "id": 9
+  },
+  {
+    "name": "Citadel of Magrath",
+    "region": "Edmonton",
+    "kind": "new",
+    "point": [
+      53.447688501239554,
+      -113.5567204318348
+    ],
+    "id": 10
+  },
+  {
+    "name": "MacEwan",
+    "region": "Edmonton",
+    "kind": "new",
+    "point": [
+      53.42874568503817,
+      -113.52694799663772
+    ],
+    "id": 11
+  },
+  {
+    "name": "Quarry Ridge",
+    "region": "Edmonton",
+    "kind": "new",
+    "point": [
+      53.62249178672573,
+      -113.33961645236101
+    ],
+    "id": 12
+  },
+  {
+    "name": "Chambery",
+    "region": "Edmonton",
+    "kind": "new",
+    "point": [
+      53.64076376483925,
+      -113.51176139221641
+    ],
+    "id": 13
+  },
+  {
+    "name": "Summerside",
+    "region": "Edmonton",
+    "kind": "new",
+    "point": [
+      53.4175276127026,
+      -113.46122737605207
+    ],
+    "id": 14
+  },
+  {
+    "name": "MacTaggart",
+    "region": "Edmonton",
+    "kind": "new",
+    "point": [
+      53.437903117432406,
+      -113.56104656101327
+    ],
+    "id": 15
+  },
+  {
+    "name": "Wolf Willow Ridge",
+    "region": "Edmonton",
+    "kind": "new",
+    "point": [
+      53.49733975842764,
+      -113.60876578846745
+    ],
+    "id": 16
+  },
+  {
+    "name": "Cameron Heights",
+    "region": "Edmonton",
+    "kind": "new",
+    "point": [
+      53.474126648696625,
+      -113.63435942674349
+    ],
+    "id": 17
+  },
+  {
+    "name": "Keswick on the River",
+    "region": "Edmonton",
+    "kind": "new",
+    "point": [
+      53.421,
+      -113.644
+    ],
+    "id": 18
+  },
+  {
+    "name": "Riverstead",
+    "region": "Edmonton",
+    "kind": "new",
+    "point": [
+      53.412,
+      -113.645
+    ],
+    "id": 19
+  },
+  {
+    "name": "Grovenor",
+    "region": "Edmonton",
+    "kind": "infill",
+    "point": [
+      53.54539881342909,
+      -113.57191166581072
+    ],
+    "id": 20
+  },
+  {
+    "name": "Forest Heights",
+    "region": "Edmonton",
+    "kind": "infill",
+    "point": [
+      53.5445370725994,
+      -113.45125000590636
+    ],
+    "id": 21
+  },
+  {
+    "name": "Bonnie Doon",
+    "region": "Edmonton",
+    "kind": "infill",
+    "point": [
+      53.52533712511544,
+      -113.46711141152339
+    ],
+    "id": 22
+  },
+  {
+    "name": "Windsor Park",
+    "region": "Edmonton",
+    "kind": "infill",
+    "point": [
+      53.52407815950066,
+      -113.53686248367437
+    ],
+    "id": 23
+  },
+  {
+    "name": "Capilano",
+    "region": "Edmonton",
+    "kind": "infill",
+    "point": [
+      53.55467208922095,
+      -113.42279236815314
+    ],
+    "id": 24
+  },
+  {
+    "name": "Parkview",
+    "region": "Edmonton",
+    "kind": "infill",
+    "point": [
+      53.52406036577422,
+      -113.56791414349783
+    ],
+    "id": 25
+  },
+  {
+    "name": "Grandview",
+    "region": "Edmonton",
+    "kind": "infill",
+    "point": [
+      53.501164827865296,
+      -113.54891011910658
+    ],
+    "id": 26
+  },
+  {
+    "name": "Belgravia",
+    "region": "Edmonton",
+    "kind": "infill",
+    "point": [
+      53.51179560303294,
+      -113.53272944431215
+    ],
+    "id": 27
+  },
+  {
+    "name": "Knottingham",
+    "region": "Sherwood Park",
+    "kind": "new",
+    "point": [
+      53.519,
+      -113.277
+    ],
+    "id": 28
+  },
+  {
+    "name": "New Port",
+    "region": "Sherwood Park",
+    "kind": "new",
+    "point": [
+      53.5204,
+      -113.2738
+    ],
+    "id": 29
+  },
+  {
+    "name": "Fountain Creek Estates",
+    "region": "Sherwood Park",
+    "kind": "new",
+    "point": [
+      53.49751,
+      -113.32653
+    ],
+    "id": 30
+  },
+  {
+    "name": "Clarkdale Meadows",
+    "region": "Sherwood Park",
+    "kind": "new",
+    "point": [
+      53.553,
+      -113.251
+    ],
+    "id": 31
+  },
+  {
+    "name": "Coloniale Estates",
+    "region": "Beaumont",
+    "kind": "new",
+    "point": [
+      53.363,
+      -113.407
+    ],
+    "id": 32
+  },
+  {
+    "name": "Place Chaleureuse",
+    "region": "Beaumont",
+    "kind": "new",
+    "point": [
+      53.339,
+      -113.424
+    ],
+    "id": 33
+  },
+  {
+    "name": "Lake Side Estates",
+    "region": "Leduc",
+    "kind": "new",
+    "point": [
+      53.258,
+      -113.577
+    ],
+    "id": 34
+  },
+  {
+    "name": "RH Estates",
+    "region": "St. Albert",
+    "kind": "new",
+    "point": null,
+    "id": 35
+  },
+  {
+    "name": "Kingswood",
+    "region": "St. Albert",
+    "kind": "new",
+    "point": [
+      53.639,
+      -113.584
+    ],
+    "id": 36
+  },
+  {
+    "name": "Riverpointe",
+    "region": "Fort Saskatchewan",
+    "kind": "new",
+    "point": [
+      53.708,
+      -113.224
+    ],
+    "id": 37
+  },
+  {
+    "name": "Drayton Valley",
+    "region": "Alberta",
+    "kind": "beyond",
+    "point": [
+      53.222,
+      -114.977
+    ],
+    "id": 38
+  },
+  {
+    "name": "Mannville",
+    "region": "Alberta",
+    "kind": "beyond",
+    "point": [
+      53.338,
+      -111.178
+    ],
+    "id": 39
+  },
+  {
+    "name": "Red Deer",
+    "region": "Alberta",
+    "kind": "beyond",
+    "point": [
+      52.269,
+      -113.811
+    ],
+    "id": 40
+  },
+  {
+    "name": "Wabamun Lake",
+    "region": "Alberta",
+    "kind": "beyond",
+    "point": [
+      53.53,
+      -114.54
+    ],
+    "id": 41
+  },
+  {
+    "name": "Legal",
+    "region": "Alberta",
+    "kind": "beyond",
+    "point": [
+      53.95,
+      -113.595
+    ],
+    "id": 42
+  },
+  {
+    "name": "Sturgeon County",
+    "region": "Acreages",
+    "kind": "acreage",
+    "point": [
+      53.82,
+      -113.6
+    ],
+    "id": 43
+  },
+  {
+    "name": "Strathcona County",
+    "region": "Acreages",
+    "kind": "acreage",
+    "point": [
+      53.52,
+      -113.02
+    ],
+    "id": 44
+  },
+  {
+    "name": "Parkland County",
+    "region": "Acreages",
+    "kind": "acreage",
+    "point": [
+      53.52,
+      -114.12
+    ],
+    "id": 45
+  },
+  {
+    "name": "Leduc County",
+    "region": "Acreages",
+    "kind": "acreage",
+    "point": [
+      53.3,
+      -113.33
+    ],
+    "id": 46
+  }
+]
